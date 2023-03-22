@@ -1,0 +1,17 @@
+G:/Personal/09_opengl/glfw-3.3.8/build/CMakeFiles/uninstall.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/CMakeFiles/INSTALL.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/CMakeFiles/ALL_BUILD.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/CMakeFiles/ZERO_CHECK.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/src/CMakeFiles/update_mappings.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/src/CMakeFiles/glfw.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/src/CMakeFiles/INSTALL.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/boing.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/gears.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/heightmap.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/offscreen.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/particles.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/sharing.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/simple.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/splitview.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/wave.dir
+G:/Personal/09_opengl/glfw-3.3.8/build/examples/CMakeFiles/INSTALL.dir
